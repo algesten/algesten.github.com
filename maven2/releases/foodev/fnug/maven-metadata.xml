@@ -2,14 +2,15 @@
 <metadata>
   <groupId>foodev</groupId>
   <artifactId>fnug</artifactId>
-  <version>0.24</version>
   <versioning>
+    <release>0.28</release>
     <versions>
       <version>0.24</version>
       <version>0.25</version>
       <version>0.26</version>
       <version>0.27</version>
+      <version>0.28</version>
     </versions>
-    <lastUpdated>20110210150349</lastUpdated>
+    <lastUpdated>20110622080644</lastUpdated>
   </versioning>
 </metadata>
